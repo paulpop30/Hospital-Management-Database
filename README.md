@@ -1,5 +1,5 @@
-# Hospital-Management-Database
-# Task Description
+### Hospital-Management-Database
+### Task Description
 - Stored Procedure with User-Defined Function
 
    - Create a stored procedure for the INSERT operation on two tables with a 1-n relationship.
@@ -29,14 +29,12 @@
    - Nonclustered Index Seek
    -Key Lookup
 
-#  📂 DatabaseOperations
-
- - 📄 README.md         # Overview of the project and implementation
+###  📂 DatabaseOperations
  - 📂 SQL
-    -  stored_procedure.sql      # Implementation of the stored procedure and user-defined function
-    -  view.sql                  # Creation of the view and associated SELECT query
-    -  trigger.sql               # Implementation of the trigger and log table
-    -  complex_query.sql         # Query with specific execution plan operators
+    -  stored_procedure.sql     
+    -  view.sql                  
+    -  trigger.sql              
+    -  complex_query.sql         
  - 📂 Documentation
-    -  task_description.md       # Full task description and requirements
-    -  examples.md               # Example inputs, outputs, and use cases
+    -  task_description.md      
+    -  examples.md               
